@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include<readline/readline.h>
+# Author: Yanling Wang yuw17@psu.edu'
+# Collaborator: Ishan Behoora iub5@psu.edu
+
 
 int main(void) {
 
